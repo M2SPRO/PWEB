@@ -1,4 +1,4 @@
-# PAINEL WEB M2SPRO
+# SCRIPT SSH-WEB M2SPRO
 
 ```
 apt install wget -y; bash <(wget -qO- https://github.com/M2SPRO/PWEB/raw/main/install/ubuinst.sh)
